@@ -28,7 +28,7 @@
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
     <OutputPath>bin\Debug</OutputPath>
-    <DefineConstants>DEBUG;WINDOWS;SDL2;STEAM</DefineConstants>
+    <DefineConstants>DEBUG;WINDOWS;SDL3;STEAM</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <ConsolePause>false</ConsolePause>
@@ -38,7 +38,7 @@
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
     <Optimize>true</Optimize>
     <OutputPath>bin\Release</OutputPath>
-    <DefineConstants>WINDOWS;SDL2</DefineConstants>
+    <DefineConstants>WINDOWS;SDL3</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <ConsolePause>false</ConsolePause>
@@ -48,7 +48,7 @@
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Steam|x86' ">
     <Optimize>true</Optimize>
     <OutputPath>bin\Steam</OutputPath>
-    <DefineConstants>WINDOWS;SDL2;STEAM;</DefineConstants>
+    <DefineConstants>WINDOWS;SDL3;STEAM;</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>

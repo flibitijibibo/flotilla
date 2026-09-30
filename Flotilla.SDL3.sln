@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flotilla.SDL2", "SpaceShooter\Flotilla.SDL2.csproj", "{F6FAAEB0-C93E-4C68-AD5C-73A066DBED0A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flotilla.SDL3", "SpaceShooter\Flotilla.SDL3.csproj", "{F6FAAEB0-C93E-4C68-AD5C-73A066DBED0A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FNA", "..\FNA\FNA.csproj", "{35253CE1-C864-4CD3-8249-4D1319748E8F}"
 EndProject
